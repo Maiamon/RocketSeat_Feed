@@ -1,4 +1,4 @@
-# Projeto
+# Projeto Feed
 
 Este projeto foi feito para práticar conceitos básicos de programação Web, foi todo feito usando html, CSS e TS, sem uso de bibliotecas de estilização de componentes
 
